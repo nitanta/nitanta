@@ -10,6 +10,7 @@ Testing: Unit testing, UI Testing
 Tools: Jira, Git
 Agile Methodology
 Real time services: XMPP, Pusher, Socket
+Backend inteaction: REST, GraphQL
 
 
 Interests: Basketball, IoT, AI, ML, AR
