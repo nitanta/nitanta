@@ -1,6 +1,6 @@
 IOS developer with a demonstrated history of developing high end mobile applications. Tech enthusiast and a willing learner.
 
-###Technologies
+#Technologies
 
 ```
 Mobile: Swift, React native, Kotlin
