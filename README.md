@@ -1,21 +1,30 @@
-IOS developer with a demonstrated history of developing high end mobile applications. Tech enthusiast and a willing learner.
+Tech enthusiast and a fast learner.
 
 #Technologies
 
 ```
-Mobile: Swift, React native, Kotlin
-Architecture: MVC, MVVM, MVVMC, Clean
-Backend: node
-Database: Core data, Mongodb, SQLite
-Testing: Unit testing, UI Testing
-Tools: Jira, Git
-Agile Methodology
-Real time services: XMPP, Pusher, Socket
-Backend inteaction: REST, GraphQL
+• Mobile: iOS, React native(Intermediate), Flutter(Beginner)
+• Language: Swift, Objective C
+• Architecture: MVC, MVVM, MVVMC, Clean
+• UIKit, SwiftUI and Extensions
+•  API Integration: REST, GraphQL, ProtoBuf
+• Database: Core data, Realm
+• Testing: Unit testing, UI Testing
+• Tools: Jira, Confluence, Git, Trello, Asana
+• Agile and Scrum
+• Real time services: XMPP, Pusher, Socket.io, Websockets
+• Designs: Figma, Sketch, Zeplin, AdobeXD, Overflow, Canva
+• Analytics: Firebase, Segment, AppsFlyer, MixPanel, Crashlytics, Sentry
+• Payment: In App purchase, Stripe
+• CI with Fastlane using CircleCI, Github actions, Azure pipelines
+• Distribution: Testflight, Diawi, Appcenter, Firebase distribution
+• Dependency Manager: Cocoapods, Carthage and SPM, Manual
+• SSL Certificate pinning
+• Mocking: WireMock, Charles
 ```
 
 
-Interests: Basketball, Blogs, Software architect
+Interests: Basketball, Blogs, Software architecture
 
 <!---
 nitanta/nitanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
