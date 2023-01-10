@@ -7,7 +7,7 @@ Tech enthusiast and a fast learner.
 • Language: Swift, Objective C
 • Architecture: MVC, MVVM, MVVMC, Clean
 • UIKit, SwiftUI and Extensions
-•  API Integration: REST, GraphQL, ProtoBuf
+• API Integration: REST, GraphQL, ProtoBuf
 • Database: Core data, Realm
 • Testing: Unit testing, UI Testing
 • Tools: Jira, Confluence, Git, Trello, Asana
