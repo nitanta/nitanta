@@ -1,4 +1,4 @@
-Tech enthusiast and a fast learner.
+Apple platforms engineer and tech enthusiast
 
 #Technologies
 
