@@ -3,7 +3,7 @@ Apple platforms engineer and tech enthusiast
 #Technologies
 
 ```
-• Mobile: iOS, React native(Intermediate), Flutter(Beginner)
+• Mobile: iOS, React native(Intermediate), Flutter(Intermediate)
 • Language: Swift, Objective C
 • Architecture: MVC, MVVM, MVVMC, Clean
 • UIKit, SwiftUI and Extensions
